@@ -25,7 +25,8 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace 'com.maru.twitter_login'
+    // namespace 'com.maru.twitter_login'
+    namespace 'com.twitter.login'
     compileSdkVersion 31
 
     compileOptions {
